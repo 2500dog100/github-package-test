@@ -1,14 +1,19 @@
 {
-  "name": "@2500dog100/github-package-test",
+  "name": "github-package-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
   "repository": {
-    "url": "git://github.com/2500dog100/github-package-test.git"
+    "type": "git",
+    "url": "git+https://github.com/2500dog100/github-package-test.git"
   },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2500dog100/github-package-test/issues"
+  },
+  "homepage": "https://github.com/2500dog100/github-package-test#readme"
 }
